@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\MMokoena\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\MMokoena\\.nuget\\packages"
+    ]
+  }
+}
